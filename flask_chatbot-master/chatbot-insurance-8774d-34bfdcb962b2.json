@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-insurance-8774d",
+  "private_key_id": "34bfdcb962b2944cd16c0fcd8875cf53901eb57c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKTbmEdH+MbJZ/\nFWuw0x9ERMUSIRj9PTJ8hgJy8eQcT/cZeUk7rA+SvcxHLIfceYbixWtbggyLTfpa\nAzIdqhd4QdpT+pmbUeaoYG1mzjZax6XenawvLWgemvHCMaBu+vz/7kJ50l6lG/sG\nVBjbxNeNZ4JCDLWId1zthDbyjnLF4BDjT23hHloIfszFg0RZLxHFiZbqGGHS+99e\neQnSn4UkA1SZjztBSm4EwfIQQRPH5TtkezrBMnY1iVciyUSLy/6QSCx2Xi6Ievxf\nwRjV7hXooNMUxZLNMb38xZAavFlmp4TrelVEnmtd/XhNK/fCTw06YIS+21CYsjW8\nXYyQdTr9AgMBAAECggEAC9ac2WVmcJTv6edhvTRJIh0X2FYsbyrQmj+XUJL7gV/n\n6Q6Mcfbnq1ojNPlvFLRzUxBugNn4LGlrk05gORFQ6nqKj3MtOFIRohqE6s6ecPVT\ncaOB9FTY63u8U3DPiIhj5R1WI9rZvpzPRyqmKROnlsNEL1aqqEh9VBhj4q3GTcEg\nwmsPfoHN9CMpW2hDRvbggjmmEmIfxrJxUhUnjDqPTVt5AH5uEwum2/5XyzxeZ2eX\nN8tId7RHf07E2FwvqfFOkjIxAtgsyMK4m+nLimPxwROnxhXtzjTzGR2NPZHm/NLP\nurx6J2i3ggVIsVn22cMOi7a5J5Z2EUHQgdKfDjYskQKBgQC8cExnftqFj4EkKrc3\nA3gsWT2vn0KBUDHWZjlzi/iK7FyREVKB5eaUt4+eEPsiskQQjn85MOzJNMbrJ3VR\nSv/Jo4MVVPt8uNzftf+2KZUZPuR9tbhmit+G0bDbsGa7PVVFKymzAaLhO7PLaIbY\n6FzRuSB+NdZruNZ7eZdhLKlV0QKBgQC749Fjv+fJS3QUzT2spaXxrsd964eSXpFm\nwnIwqfi4Ki013yy26qljpfhNPVcvcYP6bxnCbaiF5r8ylCJ+C6stixaEKWuQjrxu\nTDVYfPq10GGPq5JizEN7/no279UnNDP03L9ZVLqguUe2+OZSzsUY0kv0IVTcrEvc\n9bmo4b/hbQKBgADnINaWGwHs0BeWRM50q8y6mLsQrkbkVXjLgJb3Ire3rjHbvWN1\n8Ibh4kRFnI5sADt8E0v42gmUwSc7Ryqei18x81zUzWepkxVXT+RViqtWS832Yu3K\n2ItS0eAblkJrZs8wB8EdzuP5X0EoPQ0o/9jZZDh2lZJqjkyFJp6GkkEhAoGAfELk\nRZMyqTdEs0k1w8vd3uQXvZialdwDT7HDsZmIC8yhD+LkgKjblDK87+Bkm9T4UxVN\nNQAvFzePNdUwpqny8PDu2ENIh1dPGac/FKG7cak6DLmM29h5vTSFAXZGQ2JMBmJE\nDsFxmEBRRJqCQTvMsGjMoM22gSdWGPFOc3mx3FUCgYA5k0x6XtCatdaEiC5XQ+mA\ntkXFM9PYldiQ7tWJ11241AoBQwHinTSQBeVchRyNEg4lav74AyqCAQIhGvhZdixg\nVTneIDGXyIN3tVUENgCRHudP9suWzaPc8B1Lt7vin6N75r1a34kM+h0ta6QbHMCd\nwDmyHRnRPgz/xCx+zIB94Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-60@chatbot-insurance-8774d.iam.gserviceaccount.com",
+  "client_id": "101993805769352712322",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-60%40chatbot-insurance-8774d.iam.gserviceaccount.com"
+}

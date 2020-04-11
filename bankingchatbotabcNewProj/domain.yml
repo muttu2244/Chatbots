@@ -1,0 +1,79 @@
+session_config:
+  session_expiration_time: 0.0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- mandatory
+- whentobuy
+- wheretobuyChallenge
+- insurancerate
+- insurancecost
+entities:
+- affectRates
+- whenbuy
+- mandatory
+- wherebuy
+- insurancecost
+templates:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_cheer_up:
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Bye
+  utter_iamabot:
+  - text: I am a car insurance bot, How can i help you?
+  utter_wheretobuy:
+  - text: There are many national and local insurance companies that offer car insurance.
+      Many of these insurers sell other insurance products as well, and may offer
+      discounted rates to policyholders who buy multiple policies from them (see below
+      for more information on car insurance discounts).  Drivers can buy car insurance
+      from individual insurance agents or companies, or from a broker that offers
+      insurance from many different companies. Drivers can save money by comparing
+      auto insurance quotes and making sure that they get the best deal possible on
+      the coverage they need.
+  utter_insuranceCost:
+  - text: 'Car insurance rates depend on a number of factors. These include:  Personal
+      details like age, sex, and marital status Where you live Average annual distance
+      driven Your vehicle Your credit Your coverage amount and type According to the
+      Insurance Information Institute, the average annual car insurance cost was around
+      $866 dollars in 2014.'
+  utter_mandatory:
+  - text: In most states, soAme level of car insurance is required. The minimum amount
+      of coverage may just be liability insurance, or it may include uninsured/underinsured
+      motorist or additional medical coverage.  New Hampshire and Virginia do not
+      require that drivers buy auto insurance, but do have minimums in place for drivers
+      who do choose to buy insurance. You can find out how much auto insurance is
+      required in your state here.
+  utter_whentobuy:
+  - text: You should buy auto insurance before you begin driving, as it’s required
+      in most states (see below). Driving without insurance is often illegal and leaves
+      you financially vulnerable.
+  utter_effectsrates:
+  - text: Yes. The market value of your car and the history of other drivers with
+      the same make and model play a factor in your auto insurance rates. Certain
+      safety features may not automatically qualify you for cheaper car insurance,
+      but they can prevent you from getting into accidents, saving you money indirectly.
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_wheretobuy
+- utter_insuranceCost
+- utter_mandatory
+- utter_whentobuy
+- utter_effectsrates
